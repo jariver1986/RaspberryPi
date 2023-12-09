@@ -1,4 +1,8 @@
 # RaspberryPi
+
+![image](https://github.com/jariver1986/RaspberryPi/assets/62295761/0b9646db-e919-42f6-a05f-c28c0e89d2f9)
+
+
 The Raspberry Pi 4 Model B is a credit card-sized single-board computer developed by the Raspberry Pi Foundation. Released in June 2019, it offers significant improvements over its predecessors.
 
 Processor: The Pi 4 B is powered by a quad-core ARM Cortex-A72 processor, providing increased performance compared to previous models.
