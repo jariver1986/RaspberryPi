@@ -36,9 +36,15 @@ SSH: https://mobaxterm.mobatek.net/
 ![image](https://github.com/jariver1986/RaspberryPi/assets/62295761/bb8a5798-eef2-4c1b-ac68-4ea8018a59cb)
 
 # Python code system temperature
+
 ![image](https://github.com/jariver1986/RaspberryPi/assets/62295761/54c06026-6f59-4756-b7a3-fcc7670ae40a)
 
 #ThingSpeak data
+Please, don't forget write your own apy key in the code
+
+![image](https://github.com/jariver1986/RaspberryPi/assets/62295761/90215f67-e527-496d-9b50-1183ac113aa0)
+
+
 ![image](https://github.com/jariver1986/RaspberryPi/assets/62295761/b2fd7732-cc02-487a-8ac9-09aa87f2d25c)
 
 
