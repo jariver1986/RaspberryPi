@@ -28,5 +28,14 @@ Imager: [https://www.raspberrypi.com/software/]
 
 ![image](https://github.com/jariver1986/RaspberryPi/assets/62295761/7ce8a29d-15a7-4821-a91a-633143de3b8d)
 
+SSH: https://mobaxterm.mobatek.net/
+
+![image](https://github.com/jariver1986/RaspberryPi/assets/62295761/15e1d3bf-e21b-43a9-b072-7c11490335e8)
+
+# Test
+![image](https://github.com/jariver1986/RaspberryPi/assets/62295761/bb8a5798-eef2-4c1b-ac68-4ea8018a59cb)
+
+
+
 
 
