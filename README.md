@@ -44,6 +44,7 @@ Please, don't forget write your own apy key in the code
 
 ![image](https://github.com/jariver1986/RaspberryPi/assets/62295761/90215f67-e527-496d-9b50-1183ac113aa0)
 
+# Visualizations
 
 ![image](https://github.com/jariver1986/RaspberryPi/assets/62295761/b2fd7732-cc02-487a-8ac9-09aa87f2d25c)
 
