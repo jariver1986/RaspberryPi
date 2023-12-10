@@ -52,6 +52,7 @@ Please, don't forget write your own apy key in the code
 
 ![image](https://github.com/jariver1986/RaspberryPi/assets/62295761/b5991436-d790-4cc2-af5e-4518db1fc833)
 
-
+# See link for more information
+https://www.hostinger.es/tutoriales/linux-comandos
 
 
