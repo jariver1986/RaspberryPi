@@ -42,7 +42,7 @@ SSH: https://mobaxterm.mobatek.net/
 # ThingSpeak data
 Please, don't forget write your own apy key in the code
 
-![image](https://github.com/jariver1986/RaspberryPi/assets/62295761/90215f67-e527-496d-9b50-1183ac113aa0)
+![image](https://github.com/jariver1986/RaspberryPi/assets/62295761/b711edb9-a3ac-4384-8437-7d7b22aa628d)
 
 # Visualizations
 
