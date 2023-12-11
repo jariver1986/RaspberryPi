@@ -55,4 +55,9 @@ Please, don't forget write your own apy key in the code
 # See link for more information
 https://www.hostinger.es/tutoriales/linux-comandos
 
+This command allows the process to run in the background, even if the SSH session has been closed: 
+
+nohup python3 code1.py &
+
+![image](https://github.com/jariver1986/RaspberryPi/assets/62295761/e2f3ebd4-1559-4f60-b996-d5f6cbc0f002)
 
